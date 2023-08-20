@@ -3,7 +3,7 @@
   ![Logo](src-tauri/icons/128x128.png)
   # AutoClickeRGUI   
   
-  ![Static Badge](https://img.shields.io/badge/window-passing-e) ![Static Badge](https://img.shields.io/badge/license-MIT-blue)  
+  ![Static Badge](https://img.shields.io/badge/window-passing-e) ![Static Badge](https://img.shields.io/badge/license-MIT-blue)  ![Static Badge](https://img.shields.io/badge/real_cps-1200-e)   
   This is a quick autoclicker written in Rust.
   The development path is opensourse.
   If you want to contribute to the    
