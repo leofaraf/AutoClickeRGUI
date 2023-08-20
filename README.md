@@ -11,6 +11,6 @@
 </div>
 
 ### Currently creating support for MasOC and Linux
-Location the release build `/src-tauri/target/release/`
+Location the release build `./build/AutoClickeRGUI.exe`
 
 ![AutoClickerImage](src/assets/icons/demo.jpg)
