@@ -213,6 +213,7 @@ function App() {
                 </div>
                 <div className={"w-full z-0 flex justify-end items-end"}>
                     <div className={"w-80 h-20 border-gradient-gradient blur-3xl bg-white"}></div>
+                    <p className={"fixed bottom-20 right-28 text-sm futura-bold"}>PRESS F6 TO START/STOP</p>
                 </div>
             </div>
         </div>
