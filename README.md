@@ -1,3 +1,4 @@
+<div align="center">
 ![Logo](src-tauri/icons/128x128.png)
 
 # AutoClickeRGUI   
@@ -7,6 +8,7 @@ This is a quick autoclicker written in Rust.
 The development path is opensourse.
 If you want to contribute to the development, 
 you can write to me or contribute to this project yourself
+</div>
 ***
 ### Currently creating support for MasOC and Linux
 Last build src `/src-tauri/target/release/`
