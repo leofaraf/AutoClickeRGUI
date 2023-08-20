@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.futura-bold {
+    font-family: futura-bold;
+}
+
+@font-face {
+    font-family: futura-bold;
+    src: url("./assets/fonts/fb.otf");
+}
+
+a {
+    @apply text-blue-600
+}
+
+input {
+    @apply px-1 rounded-lg bg-zinc-600 outline-0
+}
+
+button {
+    @apply bg-zinc-600 rounded-lg px-1 hover:bg-zinc-500
+}
+
+.settings_entry {
+    @apply bg-zinc-700 rounded-lg w-48 px-2 py-2
+}
+
+select {
+    @apply bg-zinc-600
+}
+
+.settings_group {
+    @apply w-full rounded-lg grid grid-cols-2 gap-3
+}
+
+tag {
+    @apply text-blue-600
+}
+
+.active-mouse {
+
+}
+
+@keyframes gradient-border {
+    0% {
+        background-position: 0% 100%;
+    }
+    50% {
+        background-position: 50% 0%;
+    }
+    100% {
+        background-position: 100% 50%;
+    }
+}
+
+.border-gradient-gradient {
+    background: linear-gradient(to left top, #006adf 0%, #88FA00 50%, #006adf 100%);
+    background-size: 200% 200%;
+    animation: gradient-border 3s infinite;
+}
+
